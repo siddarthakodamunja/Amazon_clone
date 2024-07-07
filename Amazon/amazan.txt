@@ -1,0 +1,74 @@
+nav .nav-sec {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-color: rgb(39, 40, 69);
+    color: black;
+    height: 40px;
+    padding: 10px;
+
+
+
+
+<nav>
+        <div class="nav-sec">
+            <span><i class="fa-solid fa-bars"></i>All</span>
+            <span>Fresh</span>
+            <span>Amazon miniTV</span>
+            <span>sell</span>
+            <span>Best Sellers</span>
+            <span>Mobiles</span>
+            <span>Today`s deals</span>
+            <span>Fashion</span>
+            <span>Electronic</span>
+            <span>
+                prime
+            </span>
+            <span>customer Service</span>
+            <span>New releases</span>
+            <span>Home& Kitchen</span>
+            <span>Amazon Pay</span>
+
+        </div>
+    </nav>
+
+
+
+     <div class="logo"><a href="#">amazon.<span>in</span></a></div>
+
+
+        <div class="location">
+            <h5 style="font-weight: 500;">Delevering to Hyderabad 500001 <br><a href="#">Update location</a></h5>
+        </div>
+
+
+
+        <div class="search-box"> <input type="search" placeholder="search Amazon.in"><i style="color: black;"
+                class="fa-solid fa-magnifying-glass"></i>
+        </div>
+
+        <div class="drop-down">
+            <select name="en" id="df">
+                <option value="">EN</option>
+                <option value="">Tel</option>
+                <option value="">Hindhi</option>
+                <option value="">Kannada</option>
+
+            </select>
+        </div>
+
+        <div class="signin">
+            <h5 style="font-weight: 500;">Hello,sign in <br> <span>Accounts & Lists</span></h5>
+        </div>
+
+        <div class="orders">
+            <h5 style="font-weight: 500;">Returns <br> <span>& Orders</span></h5>
+        </div>
+
+        <div class="cart">
+            <i class="fa-solid fa-cart-shopping"></i>
+        </div>
+
+
+
+    </header>
